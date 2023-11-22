@@ -1,0 +1,11 @@
+The group part of the hand-in consists of the following exercises from CLRS: 26.1-1, 26.1-4, 26.1-7, 26.2-2, 26.2-4, 26.2-3, 26.2-7, 26.2-9, 26.3-2
+
+Optional exercises (not to be handed in) : 26.1-2, 26.1-6, 26-4, 26.2-6, 26.2-10, 26-1, 26.2-8
+
+In addition to the group hand-in, each student in the group should write their own summary of "Max flow" which is one of the topics at the exam. The summary should describe what you would like to talk about within this topic (and in which order) in your 15 minutes exam presentation. Thus, it should not cover everything about max flow in the lecture plan, only what you would like to present. There should not be any proofs nor precise statements of lemmas/theorems, definitions, etc., only bullets or similar to help you in your presentation. One bullet could e.g. be "Max flow-Min cut theorem". You may also include a problem instance that you want to run Ford-Fulkerson/Edmonds-Karp on. You are allowed to bring such a summary with you into the exam room so think of it as a help for you in your exam presentation.
+
+Each group should submit a single pdf file consisting of the group hand-in followed by summaries from each student in the group. To do so, join one of the empty groups under the Group Set "Assignment 1 Groups" (can be found under "People"). 
+
+A student passes the assignment if both the group part and the individual summary part for that student is passed.
+
+If the group part of the assignment is not passed and if the group has done a serious attempt at solving this part, it is possible to do a re-handin. The deadline for the re-handin is precisely two weeks after the deadline for the hand-in. The same is the case for the individual part of the assignment.
